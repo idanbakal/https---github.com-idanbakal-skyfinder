@@ -1,0 +1,9 @@
+:root{
+    --white: hsl(0, 0%, 96%);
+    --background: #0e1254;
+    --backbutton:rgb(100, 100, 241) ;
+  
+  }
+  .h2-exp{
+    color: black;
+  }
